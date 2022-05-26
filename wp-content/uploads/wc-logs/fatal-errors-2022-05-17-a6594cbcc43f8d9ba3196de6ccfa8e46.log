@@ -1,0 +1,132 @@
+2022-05-17T10:44:56+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:44:59+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:01+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:06+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:10+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:11+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:24+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:27+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:34+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:34+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2022-05-17T10:45:37+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-blog-header.php(19): require_once('C:\\Users\\YC\\Des...')
+#6 C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\index.php(17): require('C:\\Users\\YC\\Des...')
+#7 {main}
+  thrown in C:\Users\YC\Desktop\php_project\htdocs\wordpress-brief\wp-includes\customize\class-wp-customize-partial.php on line 221
+
